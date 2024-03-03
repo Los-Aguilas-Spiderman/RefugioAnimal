@@ -33,7 +33,7 @@ li a:visited{
 
 aside{
     border: 1px solid black;
-    height: auto;
+    height: 720px;
     width: 29%;
     display: inline-block;
     text-align: center;
@@ -42,6 +42,7 @@ aside{
 main{
     border: 1px solid black;
     width: 69.5%;
+    height: 720px;
     display: inline-block;
     text-align: center;
 }
