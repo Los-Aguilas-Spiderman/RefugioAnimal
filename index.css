@@ -27,6 +27,10 @@ li a:visited{
     color: white;
 }
 
+li a:link{
+    color: white;
+}
+
 .linkNone{
     text-decoration: none;
 }
