@@ -4,6 +4,8 @@ header{
     font-size: 40px;
     padding: 10px;
     background-color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 body{
@@ -11,8 +13,10 @@ body{
 }
 
 nav{
-    border: 1px solid black;
+    border: 2px solid black;
     text-align: center;
+    margin-bottom: 10px;
+    border-radius: 10px;
 }
 
 li{
@@ -37,6 +41,8 @@ li a:link{
 
 .Juntar{
     display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
 }
 
 aside{
@@ -55,7 +61,7 @@ aside div{
 
 main{
     border: 1px solid black;
-    width: 69.5%;
+    width: 71%;
     height: 720px;
     text-align: center;
 }
