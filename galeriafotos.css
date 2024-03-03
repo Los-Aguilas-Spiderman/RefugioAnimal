@@ -37,11 +37,19 @@ li a:link{
 }
 
 main section div{
-    border: 1px solid black;
+    border: 2px solid black;
     width: 49%;
     display: inline-block;
+    font-weight: bold;
 }
 
 main section div img{
     width: 30%;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
 }
