@@ -48,7 +48,7 @@ li a:link{
 aside{
     border: 1px solid black;
     height: 640px;
-    width: 29%;
+    width: 20%;
     text-align: center;
 }
 
@@ -61,7 +61,7 @@ aside div{
 
 main{
     border: 1px solid black;
-    width: 71%;
+    width: 80%;
     height: 640px;
     text-align: center;
 }
