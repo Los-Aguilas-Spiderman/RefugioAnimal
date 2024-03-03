@@ -46,6 +46,13 @@ aside{
     text-align: center;
 }
 
+aside div{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 30%;
+    background-color: white;
+}
+
 main{
     border: 1px solid black;
     width: 69.5%;
