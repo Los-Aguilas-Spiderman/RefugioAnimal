@@ -34,3 +34,10 @@ li a:visited{
 li a:link{
     color: white;
 }
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
