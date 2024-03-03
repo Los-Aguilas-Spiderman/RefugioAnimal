@@ -19,7 +19,12 @@ li{
     display: inline-block;
     padding: 5px;
     font-weight: bold;
+    color: white;
     
+}
+
+li a:visited{
+    color: white;
 }
 
 .linkNone{
@@ -29,7 +34,7 @@ li{
 aside{
     border: 1px solid black;
     height: auto;
-    width: 30%;
+    width: 29%;
     display: inline-block;
     text-align: center;
 }
