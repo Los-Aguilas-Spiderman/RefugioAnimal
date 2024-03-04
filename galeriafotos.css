@@ -47,6 +47,9 @@ main section div{
     width: 49%;
     display: inline-block;
     font-weight: bold;
+    background-color: white;
+    border-radius: 20px;
+ margin: 2px;
 }
 
 main section div img{
