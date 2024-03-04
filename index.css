@@ -90,3 +90,64 @@ footer{
     color: white;
     padding: 10px;
 }
+i{
+    font-size: 250%;
+
+}
+
+.twitter{
+    display: inline; 
+    margin: 0.5%;
+    width:2%;
+     padding: 10px;
+    
+     text-align: center;
+}
+
+.twitter:hover{
+  
+     color:rgb(8,160,233);
+    
+    transition-duration: 1s;  
+}
+.gmail{
+    display: inline;
+    margin:0.5%;
+    width:2%;
+     padding: 10px;
+    color:blueviolet;
+     text-align: center;   
+}
+.gmail:hover{
+   
+    color: rgb(187, 0, 27);
+    transition-duration: 1s;  
+}
+
+.facebook{
+    display: inline; 
+    margin:0.5%;
+    width:2%;
+     padding: 10px;
+     
+     text-align: center;
+}
+.facebook:hover{
+    color:rgb(59,89,152);
+ 
+    transition-duration: 1s;  
+}
+
+.reddit{
+    display: inline;  
+    margin:  0.5%;
+  width:2%;
+   padding:10px ;
+  color:bl;
+   text-align: center; 
+}
+.reddit:hover{
+    color:blueviolet;
+    color: rgb(255, 86, 0, 1);
+    transition-duration: 1s;  
+}
