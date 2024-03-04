@@ -73,7 +73,7 @@ i{
     margin: 0.5%;
     width:2%;
      padding: 10px;
-    
+    color: white;
      text-align: center;
 }
 
@@ -88,7 +88,7 @@ i{
     margin:0.5%;
     width:2%;
      padding: 10px;
-    color:blueviolet;
+    color:white;
      text-align: center;   
 }
 .gmail:hover{
@@ -102,7 +102,7 @@ i{
     margin:0.5%;
     width:2%;
      padding: 10px;
-     
+     color: white;
      text-align: center;
 }
 .facebook:hover{
@@ -116,11 +116,11 @@ i{
     margin:  0.5%;
   width:2%;
    padding:10px ;
-  color:bl;
+  color:white;
    text-align: center; 
 }
 .reddit:hover{
-    color:blueviolet;
+    color:white;
     color: rgb(255, 86, 0, 1);
     transition-duration: 1s;  
 }
