@@ -47,6 +47,14 @@ main section div img{
     width: 30%;
 }
 
+.linkNone{
+    text-decoration: none;
+}
+
+.linkNone:hover{
+    text-decoration: underline;
+}
+
 footer{
     text-align: center;
     background-color: black;

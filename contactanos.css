@@ -35,6 +35,14 @@ li a:link{
     color: white;
 }
 
+.linkNone{
+    text-decoration: none;
+}
+
+.linkNone:hover{
+    text-decoration: underline;
+}
+
 form {
     background-color: white;
     max-width: 600px;
